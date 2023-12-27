@@ -1,12 +1,12 @@
 in the project directory, you can run:
 
-### 'npm start' 
+### npm start
 
 if getting bug, you can try to rebuilt:
 
-### 'npm run build'
-### 'npm install react-scripts --save'
-### 'npm start'
+### npm run build
+### npm install react-scripts --save
+### npm start
 
 Link github backend: [(https://github.com/YuiiYuri/ITSS_backend)]
 
