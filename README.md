@@ -1,3 +1,16 @@
+in the project directory, you can run:
+
+npm start 
+
+if getting bug, you can try to rebuilt:
+
+npm run build
+npm install react-scripts --save
+npm start
+
+Link github backend: [(https://github.com/YuiiYuri/ITSS_backend)]
+
+------------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
